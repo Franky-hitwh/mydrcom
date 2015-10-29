@@ -1,0 +1,49 @@
+#!/usr/bin/env python
+
+import os
+import sys
+from argparse import ArgumentParser
+import connect
+# import disconnect
+
+
+def parse():
+    p = ArgumentParser(usage='input -h or --help looking for the information', description='')
+
+    p.add_argument('-c', '--connect', help='connect to server', action="store_true", default=True)
+
+    p.add_argument('-d', '--disconnect', help='disconnect', action="store_true")
+
+    p.add_argument('user', help='username')
+
+    p.add_argument('password', help='password')
+
+    args = p.parse_args()
+
+    dict_args = vars(args)
+    # change to dict format
+    # print dict_args
+    return dict_args
+
+
+def main():
+
+    dict_args = parse()
+    try:
+        pid = os.fork()
+    except OSError, e:
+        print e
+        sys.exit()
+
+    if pid == 0:
+        print 'The script is running at ', os.getpid()
+        if dict_args['connect']:
+            connect.main(dict_args)
+        elif dict_args['disconnect']:
+            # disconnect.main(dict_args)
+            pass
+
+
+if __name__ == '__main__':
+ 
+    main()

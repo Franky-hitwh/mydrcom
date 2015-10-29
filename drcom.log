@@ -1,0 +1,505 @@
+Thu, 29 Oct 2015 15:40:42 connect.py[line:60] INFO [challenge] challenge packet sent.
+Thu, 29 Oct 2015 15:40:42 connect.py[line:154] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:40:42 connect.py[line:160] INFO [login] success
+Thu, 29 Oct 2015 15:40:42 connect.py[line:95] INFO 0 packet sent
+Thu, 29 Oct 2015 15:40:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:40:42 connect.py[line:95] INFO 1 packet sent
+Thu, 29 Oct 2015 15:40:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:40:42 connect.py[line:95] INFO 2 packet sent
+Thu, 29 Oct 2015 15:40:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:40:42 connect.py[line:95] INFO 3 packet sent
+Thu, 29 Oct 2015 15:40:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:02 connect.py[line:95] INFO 4 packet sent
+Thu, 29 Oct 2015 15:41:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:02 connect.py[line:95] INFO 5 packet sent
+Thu, 29 Oct 2015 15:41:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:02 connect.py[line:95] INFO 6 packet sent
+Thu, 29 Oct 2015 15:41:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:02 connect.py[line:95] INFO 7 packet sent
+Thu, 29 Oct 2015 15:41:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:22 connect.py[line:95] INFO 8 packet sent
+Thu, 29 Oct 2015 15:41:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:22 connect.py[line:95] INFO 9 packet sent
+Thu, 29 Oct 2015 15:41:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:22 connect.py[line:95] INFO 10 packet sent
+Thu, 29 Oct 2015 15:41:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:22 connect.py[line:95] INFO 11 packet sent
+Thu, 29 Oct 2015 15:41:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:42 connect.py[line:95] INFO 12 packet sent
+Thu, 29 Oct 2015 15:41:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:42 connect.py[line:95] INFO 13 packet sent
+Thu, 29 Oct 2015 15:41:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:42 connect.py[line:95] INFO 14 packet sent
+Thu, 29 Oct 2015 15:41:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:41:42 connect.py[line:95] INFO 15 packet sent
+Thu, 29 Oct 2015 15:41:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:02 connect.py[line:95] INFO 16 packet sent
+Thu, 29 Oct 2015 15:42:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:02 connect.py[line:95] INFO 17 packet sent
+Thu, 29 Oct 2015 15:42:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:02 connect.py[line:95] INFO 18 packet sent
+Thu, 29 Oct 2015 15:42:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:02 connect.py[line:95] INFO 19 packet sent
+Thu, 29 Oct 2015 15:42:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:22 connect.py[line:95] INFO 20 packet sent
+Thu, 29 Oct 2015 15:42:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:22 connect.py[line:95] INFO 21 packet sent
+Thu, 29 Oct 2015 15:42:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:22 connect.py[line:95] INFO 22 packet sent
+Thu, 29 Oct 2015 15:42:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:22 connect.py[line:95] INFO 23 packet sent
+Thu, 29 Oct 2015 15:42:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:42 connect.py[line:95] INFO 24 packet sent
+Thu, 29 Oct 2015 15:42:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:42 connect.py[line:95] INFO 25 packet sent
+Thu, 29 Oct 2015 15:42:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:42 connect.py[line:95] INFO 26 packet sent
+Thu, 29 Oct 2015 15:42:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:42:42 connect.py[line:95] INFO 27 packet sent
+Thu, 29 Oct 2015 15:42:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:02 connect.py[line:95] INFO 28 packet sent
+Thu, 29 Oct 2015 15:43:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:02 connect.py[line:95] INFO 29 packet sent
+Thu, 29 Oct 2015 15:43:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:02 connect.py[line:95] INFO 30 packet sent
+Thu, 29 Oct 2015 15:43:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:02 connect.py[line:95] INFO 31 packet sent
+Thu, 29 Oct 2015 15:43:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:22 connect.py[line:95] INFO 32 packet sent
+Thu, 29 Oct 2015 15:43:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:22 connect.py[line:95] INFO 33 packet sent
+Thu, 29 Oct 2015 15:43:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:22 connect.py[line:95] INFO 34 packet sent
+Thu, 29 Oct 2015 15:43:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:22 connect.py[line:95] INFO 35 packet sent
+Thu, 29 Oct 2015 15:43:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:42 connect.py[line:95] INFO 36 packet sent
+Thu, 29 Oct 2015 15:43:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:42 connect.py[line:95] INFO 37 packet sent
+Thu, 29 Oct 2015 15:43:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:42 connect.py[line:95] INFO 38 packet sent
+Thu, 29 Oct 2015 15:43:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:42 connect.py[line:60] INFO [challenge] challenge packet sent.
+Thu, 29 Oct 2015 15:43:42 connect.py[line:154] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:42 connect.py[line:160] INFO [login] success
+Thu, 29 Oct 2015 15:43:42 connect.py[line:95] INFO 0 packet sent
+Thu, 29 Oct 2015 15:43:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:42 connect.py[line:95] INFO 1 packet sent
+Thu, 29 Oct 2015 15:43:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:42 connect.py[line:95] INFO 2 packet sent
+Thu, 29 Oct 2015 15:43:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:43:42 connect.py[line:95] INFO 3 packet sent
+Thu, 29 Oct 2015 15:43:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:02 connect.py[line:95] INFO 4 packet sent
+Thu, 29 Oct 2015 15:44:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:02 connect.py[line:95] INFO 5 packet sent
+Thu, 29 Oct 2015 15:44:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:02 connect.py[line:95] INFO 6 packet sent
+Thu, 29 Oct 2015 15:44:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:02 connect.py[line:95] INFO 7 packet sent
+Thu, 29 Oct 2015 15:44:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:22 connect.py[line:95] INFO 8 packet sent
+Thu, 29 Oct 2015 15:44:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:22 connect.py[line:95] INFO 9 packet sent
+Thu, 29 Oct 2015 15:44:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:22 connect.py[line:95] INFO 10 packet sent
+Thu, 29 Oct 2015 15:44:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:22 connect.py[line:95] INFO 11 packet sent
+Thu, 29 Oct 2015 15:44:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:42 connect.py[line:95] INFO 12 packet sent
+Thu, 29 Oct 2015 15:44:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:42 connect.py[line:95] INFO 13 packet sent
+Thu, 29 Oct 2015 15:44:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:42 connect.py[line:95] INFO 14 packet sent
+Thu, 29 Oct 2015 15:44:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:44:42 connect.py[line:95] INFO 15 packet sent
+Thu, 29 Oct 2015 15:44:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:02 connect.py[line:95] INFO 16 packet sent
+Thu, 29 Oct 2015 15:45:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:02 connect.py[line:95] INFO 17 packet sent
+Thu, 29 Oct 2015 15:45:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:02 connect.py[line:95] INFO 18 packet sent
+Thu, 29 Oct 2015 15:45:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:02 connect.py[line:95] INFO 19 packet sent
+Thu, 29 Oct 2015 15:45:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:22 connect.py[line:95] INFO 20 packet sent
+Thu, 29 Oct 2015 15:45:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:22 connect.py[line:95] INFO 21 packet sent
+Thu, 29 Oct 2015 15:45:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:22 connect.py[line:95] INFO 22 packet sent
+Thu, 29 Oct 2015 15:45:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:22 connect.py[line:95] INFO 23 packet sent
+Thu, 29 Oct 2015 15:45:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:42 connect.py[line:95] INFO 24 packet sent
+Thu, 29 Oct 2015 15:45:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:42 connect.py[line:95] INFO 25 packet sent
+Thu, 29 Oct 2015 15:45:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:42 connect.py[line:95] INFO 26 packet sent
+Thu, 29 Oct 2015 15:45:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:45:42 connect.py[line:95] INFO 27 packet sent
+Thu, 29 Oct 2015 15:45:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:02 connect.py[line:95] INFO 28 packet sent
+Thu, 29 Oct 2015 15:46:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:02 connect.py[line:95] INFO 29 packet sent
+Thu, 29 Oct 2015 15:46:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:02 connect.py[line:95] INFO 30 packet sent
+Thu, 29 Oct 2015 15:46:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:02 connect.py[line:95] INFO 31 packet sent
+Thu, 29 Oct 2015 15:46:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:22 connect.py[line:95] INFO 32 packet sent
+Thu, 29 Oct 2015 15:46:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:22 connect.py[line:95] INFO 33 packet sent
+Thu, 29 Oct 2015 15:46:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:22 connect.py[line:95] INFO 34 packet sent
+Thu, 29 Oct 2015 15:46:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:22 connect.py[line:95] INFO 35 packet sent
+Thu, 29 Oct 2015 15:46:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:42 connect.py[line:95] INFO 36 packet sent
+Thu, 29 Oct 2015 15:46:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:42 connect.py[line:95] INFO 37 packet sent
+Thu, 29 Oct 2015 15:46:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:42 connect.py[line:95] INFO 38 packet sent
+Thu, 29 Oct 2015 15:46:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:42 connect.py[line:60] INFO [challenge] challenge packet sent.
+Thu, 29 Oct 2015 15:46:42 connect.py[line:154] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:42 connect.py[line:160] INFO [login] success
+Thu, 29 Oct 2015 15:46:42 connect.py[line:95] INFO 0 packet sent
+Thu, 29 Oct 2015 15:46:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:42 connect.py[line:95] INFO 1 packet sent
+Thu, 29 Oct 2015 15:46:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:42 connect.py[line:95] INFO 2 packet sent
+Thu, 29 Oct 2015 15:46:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:46:42 connect.py[line:95] INFO 3 packet sent
+Thu, 29 Oct 2015 15:46:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:02 connect.py[line:95] INFO 4 packet sent
+Thu, 29 Oct 2015 15:47:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:02 connect.py[line:95] INFO 5 packet sent
+Thu, 29 Oct 2015 15:47:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:02 connect.py[line:95] INFO 6 packet sent
+Thu, 29 Oct 2015 15:47:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:02 connect.py[line:95] INFO 7 packet sent
+Thu, 29 Oct 2015 15:47:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:22 connect.py[line:95] INFO 8 packet sent
+Thu, 29 Oct 2015 15:47:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:22 connect.py[line:95] INFO 9 packet sent
+Thu, 29 Oct 2015 15:47:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:22 connect.py[line:95] INFO 10 packet sent
+Thu, 29 Oct 2015 15:47:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:22 connect.py[line:95] INFO 11 packet sent
+Thu, 29 Oct 2015 15:47:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:42 connect.py[line:95] INFO 12 packet sent
+Thu, 29 Oct 2015 15:47:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:42 connect.py[line:95] INFO 13 packet sent
+Thu, 29 Oct 2015 15:47:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:42 connect.py[line:95] INFO 14 packet sent
+Thu, 29 Oct 2015 15:47:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:47:42 connect.py[line:95] INFO 15 packet sent
+Thu, 29 Oct 2015 15:47:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:02 connect.py[line:95] INFO 16 packet sent
+Thu, 29 Oct 2015 15:48:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:02 connect.py[line:95] INFO 17 packet sent
+Thu, 29 Oct 2015 15:48:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:02 connect.py[line:95] INFO 18 packet sent
+Thu, 29 Oct 2015 15:48:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:02 connect.py[line:95] INFO 19 packet sent
+Thu, 29 Oct 2015 15:48:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:22 connect.py[line:95] INFO 20 packet sent
+Thu, 29 Oct 2015 15:48:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:22 connect.py[line:95] INFO 21 packet sent
+Thu, 29 Oct 2015 15:48:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:22 connect.py[line:95] INFO 22 packet sent
+Thu, 29 Oct 2015 15:48:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:22 connect.py[line:95] INFO 23 packet sent
+Thu, 29 Oct 2015 15:48:22 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:42 connect.py[line:95] INFO 24 packet sent
+Thu, 29 Oct 2015 15:48:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:42 connect.py[line:95] INFO 25 packet sent
+Thu, 29 Oct 2015 15:48:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:42 connect.py[line:95] INFO 26 packet sent
+Thu, 29 Oct 2015 15:48:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:48:42 connect.py[line:95] INFO 27 packet sent
+Thu, 29 Oct 2015 15:48:42 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:02 connect.py[line:95] INFO 28 packet sent
+Thu, 29 Oct 2015 15:49:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:02 connect.py[line:95] INFO 29 packet sent
+Thu, 29 Oct 2015 15:49:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:02 connect.py[line:95] INFO 30 packet sent
+Thu, 29 Oct 2015 15:49:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:02 connect.py[line:95] INFO 31 packet sent
+Thu, 29 Oct 2015 15:49:02 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:23 connect.py[line:95] INFO 32 packet sent
+Thu, 29 Oct 2015 15:49:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:23 connect.py[line:95] INFO 33 packet sent
+Thu, 29 Oct 2015 15:49:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:23 connect.py[line:95] INFO 34 packet sent
+Thu, 29 Oct 2015 15:49:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:23 connect.py[line:95] INFO 35 packet sent
+Thu, 29 Oct 2015 15:49:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:43 connect.py[line:95] INFO 36 packet sent
+Thu, 29 Oct 2015 15:49:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:43 connect.py[line:95] INFO 37 packet sent
+Thu, 29 Oct 2015 15:49:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:43 connect.py[line:95] INFO 38 packet sent
+Thu, 29 Oct 2015 15:49:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:43 connect.py[line:60] INFO [challenge] challenge packet sent.
+Thu, 29 Oct 2015 15:49:43 connect.py[line:154] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:43 connect.py[line:160] INFO [login] success
+Thu, 29 Oct 2015 15:49:43 connect.py[line:95] INFO 0 packet sent
+Thu, 29 Oct 2015 15:49:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:43 connect.py[line:95] INFO 1 packet sent
+Thu, 29 Oct 2015 15:49:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:43 connect.py[line:95] INFO 2 packet sent
+Thu, 29 Oct 2015 15:49:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:49:43 connect.py[line:95] INFO 3 packet sent
+Thu, 29 Oct 2015 15:49:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:03 connect.py[line:95] INFO 4 packet sent
+Thu, 29 Oct 2015 15:50:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:03 connect.py[line:95] INFO 5 packet sent
+Thu, 29 Oct 2015 15:50:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:03 connect.py[line:95] INFO 6 packet sent
+Thu, 29 Oct 2015 15:50:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:03 connect.py[line:95] INFO 7 packet sent
+Thu, 29 Oct 2015 15:50:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:23 connect.py[line:95] INFO 8 packet sent
+Thu, 29 Oct 2015 15:50:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:23 connect.py[line:95] INFO 9 packet sent
+Thu, 29 Oct 2015 15:50:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:23 connect.py[line:95] INFO 10 packet sent
+Thu, 29 Oct 2015 15:50:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:23 connect.py[line:95] INFO 11 packet sent
+Thu, 29 Oct 2015 15:50:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:43 connect.py[line:95] INFO 12 packet sent
+Thu, 29 Oct 2015 15:50:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:43 connect.py[line:95] INFO 13 packet sent
+Thu, 29 Oct 2015 15:50:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:43 connect.py[line:95] INFO 14 packet sent
+Thu, 29 Oct 2015 15:50:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:50:43 connect.py[line:95] INFO 15 packet sent
+Thu, 29 Oct 2015 15:50:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:03 connect.py[line:95] INFO 16 packet sent
+Thu, 29 Oct 2015 15:51:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:03 connect.py[line:95] INFO 17 packet sent
+Thu, 29 Oct 2015 15:51:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:03 connect.py[line:95] INFO 18 packet sent
+Thu, 29 Oct 2015 15:51:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:03 connect.py[line:95] INFO 19 packet sent
+Thu, 29 Oct 2015 15:51:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:23 connect.py[line:95] INFO 20 packet sent
+Thu, 29 Oct 2015 15:51:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:23 connect.py[line:95] INFO 21 packet sent
+Thu, 29 Oct 2015 15:51:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:23 connect.py[line:95] INFO 22 packet sent
+Thu, 29 Oct 2015 15:51:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:23 connect.py[line:95] INFO 23 packet sent
+Thu, 29 Oct 2015 15:51:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:43 connect.py[line:95] INFO 24 packet sent
+Thu, 29 Oct 2015 15:51:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:43 connect.py[line:95] INFO 25 packet sent
+Thu, 29 Oct 2015 15:51:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:43 connect.py[line:95] INFO 26 packet sent
+Thu, 29 Oct 2015 15:51:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:51:43 connect.py[line:95] INFO 27 packet sent
+Thu, 29 Oct 2015 15:51:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:03 connect.py[line:95] INFO 28 packet sent
+Thu, 29 Oct 2015 15:52:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:03 connect.py[line:95] INFO 29 packet sent
+Thu, 29 Oct 2015 15:52:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:03 connect.py[line:95] INFO 30 packet sent
+Thu, 29 Oct 2015 15:52:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:03 connect.py[line:95] INFO 31 packet sent
+Thu, 29 Oct 2015 15:52:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:23 connect.py[line:95] INFO 32 packet sent
+Thu, 29 Oct 2015 15:52:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:23 connect.py[line:95] INFO 33 packet sent
+Thu, 29 Oct 2015 15:52:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:23 connect.py[line:95] INFO 34 packet sent
+Thu, 29 Oct 2015 15:52:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:23 connect.py[line:95] INFO 35 packet sent
+Thu, 29 Oct 2015 15:52:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:43 connect.py[line:95] INFO 36 packet sent
+Thu, 29 Oct 2015 15:52:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:43 connect.py[line:95] INFO 37 packet sent
+Thu, 29 Oct 2015 15:52:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:43 connect.py[line:95] INFO 38 packet sent
+Thu, 29 Oct 2015 15:52:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:43 connect.py[line:60] INFO [challenge] challenge packet sent.
+Thu, 29 Oct 2015 15:52:43 connect.py[line:154] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:43 connect.py[line:160] INFO [login] success
+Thu, 29 Oct 2015 15:52:43 connect.py[line:95] INFO 0 packet sent
+Thu, 29 Oct 2015 15:52:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:43 connect.py[line:95] INFO 1 packet sent
+Thu, 29 Oct 2015 15:52:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:43 connect.py[line:95] INFO 2 packet sent
+Thu, 29 Oct 2015 15:52:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:52:43 connect.py[line:95] INFO 3 packet sent
+Thu, 29 Oct 2015 15:52:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:03 connect.py[line:95] INFO 4 packet sent
+Thu, 29 Oct 2015 15:53:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:03 connect.py[line:95] INFO 5 packet sent
+Thu, 29 Oct 2015 15:53:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:03 connect.py[line:95] INFO 6 packet sent
+Thu, 29 Oct 2015 15:53:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:03 connect.py[line:95] INFO 7 packet sent
+Thu, 29 Oct 2015 15:53:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:23 connect.py[line:95] INFO 8 packet sent
+Thu, 29 Oct 2015 15:53:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:23 connect.py[line:95] INFO 9 packet sent
+Thu, 29 Oct 2015 15:53:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:23 connect.py[line:95] INFO 10 packet sent
+Thu, 29 Oct 2015 15:53:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:23 connect.py[line:95] INFO 11 packet sent
+Thu, 29 Oct 2015 15:53:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:43 connect.py[line:95] INFO 12 packet sent
+Thu, 29 Oct 2015 15:53:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:43 connect.py[line:95] INFO 13 packet sent
+Thu, 29 Oct 2015 15:53:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:43 connect.py[line:95] INFO 14 packet sent
+Thu, 29 Oct 2015 15:53:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:53:43 connect.py[line:95] INFO 15 packet sent
+Thu, 29 Oct 2015 15:53:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:03 connect.py[line:95] INFO 16 packet sent
+Thu, 29 Oct 2015 15:54:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:03 connect.py[line:95] INFO 17 packet sent
+Thu, 29 Oct 2015 15:54:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:03 connect.py[line:95] INFO 18 packet sent
+Thu, 29 Oct 2015 15:54:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:03 connect.py[line:95] INFO 19 packet sent
+Thu, 29 Oct 2015 15:54:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:23 connect.py[line:95] INFO 20 packet sent
+Thu, 29 Oct 2015 15:54:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:23 connect.py[line:95] INFO 21 packet sent
+Thu, 29 Oct 2015 15:54:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:23 connect.py[line:95] INFO 22 packet sent
+Thu, 29 Oct 2015 15:54:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:23 connect.py[line:95] INFO 23 packet sent
+Thu, 29 Oct 2015 15:54:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:43 connect.py[line:95] INFO 24 packet sent
+Thu, 29 Oct 2015 15:54:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:43 connect.py[line:95] INFO 25 packet sent
+Thu, 29 Oct 2015 15:54:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:43 connect.py[line:95] INFO 26 packet sent
+Thu, 29 Oct 2015 15:54:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:54:43 connect.py[line:95] INFO 27 packet sent
+Thu, 29 Oct 2015 15:54:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:03 connect.py[line:95] INFO 28 packet sent
+Thu, 29 Oct 2015 15:55:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:03 connect.py[line:95] INFO 29 packet sent
+Thu, 29 Oct 2015 15:55:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:03 connect.py[line:95] INFO 30 packet sent
+Thu, 29 Oct 2015 15:55:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:03 connect.py[line:95] INFO 31 packet sent
+Thu, 29 Oct 2015 15:55:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:23 connect.py[line:95] INFO 32 packet sent
+Thu, 29 Oct 2015 15:55:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:23 connect.py[line:95] INFO 33 packet sent
+Thu, 29 Oct 2015 15:55:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:23 connect.py[line:95] INFO 34 packet sent
+Thu, 29 Oct 2015 15:55:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:23 connect.py[line:95] INFO 35 packet sent
+Thu, 29 Oct 2015 15:55:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:43 connect.py[line:95] INFO 36 packet sent
+Thu, 29 Oct 2015 15:55:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:43 connect.py[line:95] INFO 37 packet sent
+Thu, 29 Oct 2015 15:55:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:43 connect.py[line:95] INFO 38 packet sent
+Thu, 29 Oct 2015 15:55:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:43 connect.py[line:60] INFO [challenge] challenge packet sent.
+Thu, 29 Oct 2015 15:55:43 connect.py[line:154] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:43 connect.py[line:160] INFO [login] success
+Thu, 29 Oct 2015 15:55:43 connect.py[line:95] INFO 0 packet sent
+Thu, 29 Oct 2015 15:55:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:43 connect.py[line:95] INFO 1 packet sent
+Thu, 29 Oct 2015 15:55:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:43 connect.py[line:95] INFO 2 packet sent
+Thu, 29 Oct 2015 15:55:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:55:43 connect.py[line:95] INFO 3 packet sent
+Thu, 29 Oct 2015 15:55:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:03 connect.py[line:95] INFO 4 packet sent
+Thu, 29 Oct 2015 15:56:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:03 connect.py[line:95] INFO 5 packet sent
+Thu, 29 Oct 2015 15:56:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:03 connect.py[line:95] INFO 6 packet sent
+Thu, 29 Oct 2015 15:56:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:03 connect.py[line:95] INFO 7 packet sent
+Thu, 29 Oct 2015 15:56:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:23 connect.py[line:95] INFO 8 packet sent
+Thu, 29 Oct 2015 15:56:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:23 connect.py[line:95] INFO 9 packet sent
+Thu, 29 Oct 2015 15:56:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:23 connect.py[line:95] INFO 10 packet sent
+Thu, 29 Oct 2015 15:56:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:23 connect.py[line:95] INFO 11 packet sent
+Thu, 29 Oct 2015 15:56:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:43 connect.py[line:95] INFO 12 packet sent
+Thu, 29 Oct 2015 15:56:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:43 connect.py[line:95] INFO 13 packet sent
+Thu, 29 Oct 2015 15:56:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:43 connect.py[line:95] INFO 14 packet sent
+Thu, 29 Oct 2015 15:56:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:56:43 connect.py[line:95] INFO 15 packet sent
+Thu, 29 Oct 2015 15:56:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:03 connect.py[line:95] INFO 16 packet sent
+Thu, 29 Oct 2015 15:57:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:03 connect.py[line:95] INFO 17 packet sent
+Thu, 29 Oct 2015 15:57:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:03 connect.py[line:95] INFO 18 packet sent
+Thu, 29 Oct 2015 15:57:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:03 connect.py[line:95] INFO 19 packet sent
+Thu, 29 Oct 2015 15:57:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:23 connect.py[line:95] INFO 20 packet sent
+Thu, 29 Oct 2015 15:57:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:23 connect.py[line:95] INFO 21 packet sent
+Thu, 29 Oct 2015 15:57:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:23 connect.py[line:95] INFO 22 packet sent
+Thu, 29 Oct 2015 15:57:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:23 connect.py[line:95] INFO 23 packet sent
+Thu, 29 Oct 2015 15:57:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:43 connect.py[line:95] INFO 24 packet sent
+Thu, 29 Oct 2015 15:57:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:43 connect.py[line:95] INFO 25 packet sent
+Thu, 29 Oct 2015 15:57:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:43 connect.py[line:95] INFO 26 packet sent
+Thu, 29 Oct 2015 15:57:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:57:43 connect.py[line:95] INFO 27 packet sent
+Thu, 29 Oct 2015 15:57:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:03 connect.py[line:95] INFO 28 packet sent
+Thu, 29 Oct 2015 15:58:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:03 connect.py[line:95] INFO 29 packet sent
+Thu, 29 Oct 2015 15:58:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:03 connect.py[line:95] INFO 30 packet sent
+Thu, 29 Oct 2015 15:58:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:03 connect.py[line:95] INFO 31 packet sent
+Thu, 29 Oct 2015 15:58:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:23 connect.py[line:95] INFO 32 packet sent
+Thu, 29 Oct 2015 15:58:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:23 connect.py[line:95] INFO 33 packet sent
+Thu, 29 Oct 2015 15:58:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:23 connect.py[line:95] INFO 34 packet sent
+Thu, 29 Oct 2015 15:58:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:23 connect.py[line:95] INFO 35 packet sent
+Thu, 29 Oct 2015 15:58:23 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:43 connect.py[line:95] INFO 36 packet sent
+Thu, 29 Oct 2015 15:58:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:43 connect.py[line:95] INFO 37 packet sent
+Thu, 29 Oct 2015 15:58:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:43 connect.py[line:95] INFO 38 packet sent
+Thu, 29 Oct 2015 15:58:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:43 connect.py[line:60] INFO [challenge] challenge packet sent.
+Thu, 29 Oct 2015 15:58:43 connect.py[line:154] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:43 connect.py[line:160] INFO [login] success
+Thu, 29 Oct 2015 15:58:43 connect.py[line:95] INFO 0 packet sent
+Thu, 29 Oct 2015 15:58:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:43 connect.py[line:95] INFO 1 packet sent
+Thu, 29 Oct 2015 15:58:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:43 connect.py[line:95] INFO 2 packet sent
+Thu, 29 Oct 2015 15:58:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:58:43 connect.py[line:95] INFO 3 packet sent
+Thu, 29 Oct 2015 15:58:43 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:59:03 connect.py[line:95] INFO 4 packet sent
+Thu, 29 Oct 2015 15:59:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:59:03 connect.py[line:95] INFO 5 packet sent
+Thu, 29 Oct 2015 15:59:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:59:03 connect.py[line:95] INFO 6 packet sent
+Thu, 29 Oct 2015 15:59:03 connect.py[line:99] INFO receive from server 172.25.8.4
+Thu, 29 Oct 2015 15:59:03 connect.py[line:95] INFO 7 packet sent
+Thu, 29 Oct 2015 15:59:03 connect.py[line:99] INFO receive from server 172.25.8.4
